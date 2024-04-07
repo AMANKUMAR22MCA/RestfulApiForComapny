@@ -1,10 +1,9 @@
 
-#Creating a README file for a RESTful API project is a great way to provide an overview of your project, explain how to use your API, and provide any necessary setup instructions. Here's an example of what you might include in your README.md file:
 
-#RestfulApiForCompany
-##This project is a RESTful API for managing company information.
+# RestfulApiForCompany
+## This project is a RESTful API for managing company information.
 
-#Installation :
+# Installation :
 Clone the repository:
 git clone https://github.com/AMANKUMAR22MCA/RestfulApiForComapny.git
 Install dependencies:
@@ -14,7 +13,7 @@ python manage.py migrate
 Start the development server:
 python manage.py runserver
 
-#Usage
+# Usage
 API Endpoints:
 
 /api/v1/companies/: List all companies or create a new company.
@@ -32,5 +31,7 @@ curl http://127.0.0.1:8000/api/v1/companies/
 Retrieve Company:
 curl http://127.0.0.1:8000/api/v1/companies/1/
 ![rest3](https://github.com/AMANKUMAR22MCA/RestfulApiForComapny/assets/126316303/f767f877-e98f-4326-81f0-d5788f98b1c6)
+![rest4](https://github.com/AMANKUMAR22MCA/RestfulApiForComapny/assets/126316303/e6199b31-8eb0-4981-9e06-9f074b043b2b)
+
 
 
